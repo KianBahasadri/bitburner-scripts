@@ -43,5 +43,7 @@ I wanted this functionality in my program, which is why I made it like this, unf
 
 ### Useful Links For Creating Scripts
 Bitburner Docs    https://github.com/bitburner-official/bitburner-src/blob/f916007f2da53ddeecf6391af3a263c0596f80c0/markdown/bitburner.ns.md
+
 ANSI Escape Chars https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#escape
+
 Terminal Chars    https://en.wikipedia.org/wiki/Box-drawing_character
