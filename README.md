@@ -42,8 +42,11 @@ I think the reason a computer virus is so cool, is that it copies itself onto ot
 I wanted this functionality in my program, which is why I made it like this, unfortunately it causes some drawbacks. But idk, at least im not cringe.
 
 ### Useful Links For Creating Scripts
-Bitburner Docs    https://github.com/bitburner-official/bitburner-src/blob/f916007f2da53ddeecf6391af3a263c0596f80c0/markdown/bitburner.ns.md
+Bitburner Docs  
+https://github.com/bitburner-official/bitburner-src/blob/f916007f2da53ddeecf6391af3a263c0596f80c0/markdown/bitburner.ns.md
 
-ANSI Escape Chars https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#escape
+ANSI Escape Chars  
+https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#escape
 
-Terminal Chars    https://en.wikipedia.org/wiki/Box-drawing_character
+Terminal Chars  
+https://en.wikipedia.org/wiki/Box-drawing_character
