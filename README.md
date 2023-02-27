@@ -7,7 +7,7 @@ the old versions are only there for archival purposes.
 Below is a brief description of what each type of script does
 
 
-## attack_target
+### attack_target
 This script attacks a specific target.
 
 It is *supposed to* be RAM optimized, but I have not gotten around to doing that yet.
@@ -17,7 +17,7 @@ It has custom logs, as I didn't like how the default logs presented information.
 It takes a lot of arguments, because its not meant to be ran by the user, but by a deployer script.
 
 
-## deployer
+### deployer
 This script deploys the attack_target scripts on external servers.
 
 At the time of writing, this only deploys the attack scripts on servers adjacent to home, but I'm working on getting it to deploy to every server that I 
@@ -28,7 +28,7 @@ I spent a lot more time on the terminal output than I did on the functionality l
 But what is the point of a hacker game if your terminal output doesnt look like a hackers? right?
 
 
-## worm
+### worm
 This script is meant to gain root access.
 
 This script is intentionally created inefficiently.
@@ -40,3 +40,8 @@ However, imo that super duper mega cringe. Imagine creating a MALWARE that never
 I think the reason a computer virus is so cool, is that it copies itself onto other computers.
 
 I wanted this functionality in my program, which is why I made it like this, unfortunately it causes some drawbacks. But idk, at least im not cringe.
+
+### Useful Links For Creating Scripts
+Bitburner Docs    https://github.com/bitburner-official/bitburner-src/blob/f916007f2da53ddeecf6391af3a263c0596f80c0/markdown/bitburner.ns.md
+ANSI Escape Chars https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#escape
+Terminal Chars    https://en.wikipedia.org/wiki/Box-drawing_character
